@@ -6,4 +6,7 @@ Curso oferecido pelo evento Linguistics Summer School 2024, promovido pelo Progr
 Profas. Aline Fonseca e Bianca Lignani
 
 ## Cronograma
-Aula 1 - 11/03/2024
+- **Aula 1 - 11/03/2024**:
+- **Aula 2 - 12/03/2024**:
+- **Aula 3 - 13/03/2024**:
+- **Aula 4 - 14/03/2024**:
