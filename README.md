@@ -4,3 +4,6 @@
 Curso oferecido pelo evento Linguistics Summer School 2024, promovido pelo Programa de Pós-graduação em Linguística da UFJF.
 
 Profas. Aline Fonseca e Bianca Lignani
+
+## Cronograma
+Aula 1 - 11/03/2024
