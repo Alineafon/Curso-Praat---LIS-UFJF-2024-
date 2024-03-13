@@ -1,0 +1,79 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.491904761904762 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pal" 
+        xmin = 0 
+        xmax = 2.491904761904762 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.219229384890767 
+            text = "" 
+        intervals [2]:
+            xmin = 0.219229384890767 
+            xmax = 0.8808735653842379 
+            text = "Camila" 
+        intervals [3]:
+            xmin = 0.8808735653842379 
+            xmax = 1.4328962248492045 
+            text = "perdeu" 
+        intervals [4]:
+            xmin = 1.4328962248492045 
+            xmax = 2.282463012820111 
+            text = "a caneta" 
+        intervals [5]:
+            xmin = 2.282463012820111 
+            xmax = 2.491904761904762 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "sil" 
+        xmin = 0 
+        xmax = 2.491904761904762 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4328962248492045 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4328962248492045 
+            xmax = 1.538602691555262 
+            text = "a" 
+        intervals [3]:
+            xmin = 1.538602691555262 
+            xmax = 1.7147801360653578 
+            text = "ka" 
+        intervals [4]:
+            xmin = 1.7147801360653578 
+            xmax = 1.9594710312182686 
+            text = "ne" 
+        intervals [5]:
+            xmin = 1.9594710312182686 
+            xmax = 2.282463012820111 
+            text = "ta" 
+        intervals [6]:
+            xmin = 2.282463012820111 
+            xmax = 2.491904761904762 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "tom" 
+        xmin = 0 
+        xmax = 2.491904761904762 
+        points: size = 3 
+        points [1]:
+            number = 1.6717145385184455 
+            mark = "H" 
+        points [2]:
+            number = 1.865509727479551 
+            mark = "+L*" 
+        points [3]:
+            number = 2.159138801663044 
+            mark = "L%" 
