@@ -24,4 +24,5 @@ Profas. Aline Fonseca e Bianca Lignani
 - **Aula 4 - 14/03/2024**:
     - Criação de Imagens com o Praat Picture.
     - Programação e Praat: apresentação do script Slicer (Pablo Arantes - UFSCar).
+    - Criação de gráficos com o RStudio.
 
