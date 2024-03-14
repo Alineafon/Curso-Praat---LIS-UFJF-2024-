@@ -7,6 +7,7 @@ setwd("~/Desktop/LIS/Dia 2")
 Vogais <- read.csv("vogais_curso.csv", header = T, sep = ";") 
 
 # Transformar os caracteres em fatores
+install.packages("dplyr") #esta linha deve ser usada só na 1a vez que o script for rodado.
 library(dplyr)
 Vogais <- Vogais %>% mutate_if(sapply(Vogais, is.character), as.factor)
 
