@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.814512471655329 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pal" 
+        xmin = 0 
+        xmax = 12.814512471655329 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8641070764297946 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8641070764297946 
+            xmax = 1.7832372338734537 
+            text = "kiko" 
+        intervals [3]:
+            xmin = 1.7832372338734537 
+            xmax = 2.3506015285917616 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3506015285917616 
+            xmax = 3.417246402662181 
+            text = "keko" 
+        intervals [5]:
+            xmin = 3.417246402662181 
+            xmax = 4.234250987056544 
+            text = "" 
+        intervals [6]:
+            xmin = 4.234250987056544 
+            xmax = 5.198770288077668 
+            text = "keko_aberto" 
+        intervals [7]:
+            xmin = 5.198770288077668 
+            xmax = 5.834218298162172 
+            text = "" 
+        intervals [8]:
+            xmin = 5.834218298162172 
+            xmax = 6.923557744021323 
+            text = "kako" 
+        intervals [9]:
+            xmin = 6.923557744021323 
+            xmax = 7.6611313271551245 
+            text = "" 
+        intervals [10]:
+            xmin = 7.6611313271551245 
+            xmax = 8.625650628176247 
+            text = "koko_aberto" 
+        intervals [11]:
+            xmin = 8.625650628176247 
+            xmax = 9.170320351105824 
+            text = "" 
+        intervals [12]:
+            xmin = 9.170320351105824 
+            xmax = 10.157534223915679 
+            text = "koko" 
+        intervals [13]:
+            xmin = 10.157534223915679 
+            xmax = 10.74759309042272 
+            text = "" 
+        intervals [14]:
+            xmin = 10.74759309042272 
+            xmax = 11.57594496071145 
+            text = "kuko" 
+        intervals [15]:
+            xmin = 11.57594496071145 
+            xmax = 12.814512471655329 
+            text = "" 
